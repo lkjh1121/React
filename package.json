@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "classnames": "^2.3.1",
+    "create-react-app": "^5.0.1",
+    "node-sass": "^7.0.1",
+    "react-icons": "^4.3.1"
+  }
+}
